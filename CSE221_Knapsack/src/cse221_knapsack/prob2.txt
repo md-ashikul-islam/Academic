@@ -1,0 +1,8 @@
+15
+6
+Chelsea, 8, 9.6, Premier league
+Inter Milan, 7, 9.4, Champion’s League
+Individual, 5, 8.3, Coach of the Year
+Real Madrid, 5, 8.7, Liga BBVA
+Porto, 4, 8.5, Champion’s League
+Mansister United, 6, 8.9, Europa League

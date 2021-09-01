@@ -1,0 +1,8 @@
+150
+6
+Aubameyang, 80, 96, F
+Koulibaly, 70, 94, D
+Thiago, 45, 83, M
+Insigne, 50, 87, F
+Kimmich, 40, 85, D
+Sancho, 60, 89, M
